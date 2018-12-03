@@ -1,0 +1,21 @@
+SOME prerequesites to understand SOAP webservices are as follows::========
+1. what is XML
+2. XML and XML processing in python
+3. What is web service
+4. What is SOAP protocol and what is the main difference between SOAP1.1 and SOAP1.2
+5. What is HTTP and SMTP
+
+Working SOAP webservice for testing purpose-
+http://www.dneonline.com/calculator.asmx
+
+=========================
+
+SOAP webservice can be tested in python using following two modules aivalbel(both modules have different style of calling the soap requests/underlying methodoliges illustration and working example needs to be attached)
+1. requests module
+2. zeep module
+================
+
+
+========Some additional materials to study SOAP=============
+https://medium.com/@adriennedomingus/using-zeep-to-make-soap-requests-in-python-c575ea0ee954
+https://python-zeep.readthedocs.io/en/master/in_depth.html
