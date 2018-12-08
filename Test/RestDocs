@@ -1,0 +1,5 @@
+Rest server is already installed on my machine using the details available at the link below-
+https://github.com/typicode/json-server
+
+to start using this rest service I just need to navigate to desktop and run following command-
+json-server --watch db.json
